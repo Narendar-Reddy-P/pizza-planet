@@ -14,7 +14,10 @@ function App() {
 function Pizza(props) {
   return (
     <div className="pizza">
-      <img src={`../public/pizzas/${props.id}.jpg`} alt={props.name} />
+      <img
+        src={`/pizza-planet/public/pizzas/${props.id}.jpg`}
+        alt={props.name}
+      />
       <div>
         <h3>{props.name}</h3>
         <p>{props.ingredients}</p>
