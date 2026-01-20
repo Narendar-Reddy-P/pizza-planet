@@ -5,7 +5,6 @@ const pizzaData = [
     price: 600,
     photoName: "pizzas/focaccia.jpg",
     soldOut: false,
-    id: "focaccia",
   },
   {
     name: "Pizza Margherita",
@@ -13,7 +12,6 @@ const pizzaData = [
     price: 1000,
     photoName: "pizzas/margherita.jpg",
     soldOut: false,
-    id: "margherita",
   },
   {
     name: "Pizza Spinaci",
@@ -21,7 +19,6 @@ const pizzaData = [
     price: 1200,
     photoName: "pizzas/spinaci.jpg",
     soldOut: false,
-    id: "spinaci",
   },
   {
     name: "Pizza Funghi",
@@ -29,7 +26,6 @@ const pizzaData = [
     price: 1200,
     photoName: "pizzas/funghi.jpg",
     soldOut: false,
-    id: "funghi",
   },
   {
     name: "Pizza Salamino",
@@ -37,7 +33,6 @@ const pizzaData = [
     price: 1500,
     photoName: "pizzas/salamino.jpg",
     soldOut: true,
-    id: "salamino",
   },
   {
     name: "Pizza Prosciutto",
@@ -45,7 +40,6 @@ const pizzaData = [
     price: 1800,
     photoName: "pizzas/prosciutto.jpg",
     soldOut: false,
-    id: "prosciutto",
   },
 ];
 
